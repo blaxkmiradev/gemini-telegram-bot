@@ -1,1 +1,12 @@
-# gemini-telegram-bot
+# 🤖 Gemini Telegram Bot
+
+## Install
+```bash
+pip install -r requirements.txt
+
+```
+## Run
+```bash
+python main.py
+
+```
